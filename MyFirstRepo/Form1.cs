@@ -20,6 +20,9 @@ namespace MyFirstRepo
         private void button1_Click(object sender, EventArgs e)
         {
             // This is my first repo on GitHub
+
+            Console.WriteLine("Hello GitHub!..");
+            Console.WriteLine("Additional codes...");
         }
     }
 }
